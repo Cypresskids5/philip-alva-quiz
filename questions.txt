@@ -1,0 +1,45 @@
+topic: frogy flexbox and frogs and chickens
+
+qusestoin 1: whats the anser to q 5
+r:align-items: flex-end      w:justify-content:space-around  W:justify-content:flex-end   w:justify-content:center
+
+
+q 2 :
+ what animal is a moutain chicken
+ w:chicken  w: rooster  r:frog  w:snake
+
+ q 3  what is the differce between horizontal and vertical
+
+ w vertical is left right horizontal is up down  w none of the above  r horizontal is left right vertical is up down
+
+q 4 
+what is the code to allow flexbox
+rdisplay:flex; w displayflex  w justify-content:space-around w align-items: flex-end
+
+q5
+where do they eat frog legs 
+w texas w arkansas r luisiana w hawii
+
+q6
+ what is the most poisinst frog
+ w tree     w bull rpoisin dart w loepard 
+
+
+q7
+what is the biggest frog
+
+ wbull r golith wtree  wloepard 
+
+
+ q8
+ what is the answer to question 1 of ff
+ rjustify-content: flex-end;    wjustify-content flex-end wjustify-t contenflex-start wjustify-content: center;
+
+
+
+what update were frogs intrudeced in minecraft
+w1.20 w1.18 r 1.19 w1.17
+
+
+q 10  what was the answer to q 1
+ a b c d
